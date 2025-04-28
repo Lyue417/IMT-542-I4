@@ -22,7 +22,7 @@ The script `information_access.py` showcases:
 
 1. Clone this repository:
 - git clone https://github.com/Lyue417/IMT-542-I4.git
-- cd i4-assignment
+- cd IMT-542-I4
 
 2. Install required packages:
 - pip install requests pandas
